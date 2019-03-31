@@ -1,4 +1,4 @@
-module github.com/MECLab/gofigure
+module gofigure
 
 require (
 	github.com/aws/aws-sdk-go v1.19.6
