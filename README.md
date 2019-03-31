@@ -1,0 +1,2 @@
+# gofigure
+Configuration for go
