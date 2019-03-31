@@ -1,0 +1,5 @@
+awsPlaceholders:
+  foobar: "ssm:/dev/unittesting/foo/bar"
+
+envPlaceholders:
+  helloWorld: "env:HELLO_WORLD"
